@@ -1,5 +1,5 @@
 <?
-	$x = "Mengirim dan Mengambil Perubahan di Git";
+	$x = "Pull this file";
 
 	echo $x;
 ?>
